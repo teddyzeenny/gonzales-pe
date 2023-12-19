@@ -1,7 +1,7 @@
 {
   "name": "gonzales-pe-sl",
   "description": "Temporary gonzales-pe fork for sass-lint",
-  "version": "4.2.3",
+  "version": "4.2.4",
   "homepage": "https://github.com/DanPurdy/gonzales-pe",
   "bugs": "http://github.com/tonyganch/gonzales-pe/issues",
   "license": "MIT",
